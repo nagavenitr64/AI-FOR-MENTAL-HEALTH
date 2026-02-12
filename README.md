@@ -1,4 +1,3 @@
-# AI-FOR-MENTAL-HEALTH
 AI-Powered Mental Health Assistant: MBTI Prediction and Sentiment Analysis
 
 ->This project is an AI-powered mental health assistant that uses natural language processing (NLP) and machine learning to predict Myers-Briggs Type Indicator (MBTI) personality types based on user text input. The assistant analyzes emotions and sentiment, and provides predictions on personality traits, helping users understand themselves better.
